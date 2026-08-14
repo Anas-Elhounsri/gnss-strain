@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "gnss-strain"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Moreno
+    given-names: Lucia
+    email: lucia.moreno@example.org

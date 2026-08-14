@@ -1,0 +1,24 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "gnss-strain",
+  "version": "1.0.0",
+  "description": "Strain-rate estimation from GNSS velocity fields.",
+  "codeRepository": "https://github.com/Anas-Elhounsri/gnss-strain",
+  "readme": "https://github.com/Anas-Elhounsri/gnss-strain/blob/main/README.md",
+  "referencePublication": "https://doi.org/10.5281/zenodo.5555555",
+  "license": "MIT",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Python 3.11"
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Lucia",
+      "familyName": "Moreno",
+      "email": "lucia.moreno@example.org"
+    }
+  ],
+  "dateModified": "2026-10-29"
+}
